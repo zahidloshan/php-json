@@ -1,0 +1,29 @@
+[
+    {
+        "firstName": "Zahid Hasan",
+        "lastname": "Loshan",
+        "gender": "Male",
+        "email": "zahid@gmail.com",
+        "username": "zahid",
+        "password": "123",
+        "rmail": "zahid@gmail.com"
+    },
+    {
+        "firstName": "Fahmee Abdullah",
+        "lastname": "Hasan",
+        "gender": "Male",
+        "email": "hasan@gmail.com",
+        "username": "fahmee",
+        "password": "123",
+        "rmail": "hasan@gmail.com"
+    },
+    {
+        "firstName": "Badhon",
+        "lastname": "Hasan",
+        "gender": "Male",
+        "email": "badhonhasan@gmail.com",
+        "username": "badhon",
+        "password": "123",
+        "rmail": "badhon@gmail.com"
+    }
+]
